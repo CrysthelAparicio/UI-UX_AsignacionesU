@@ -1,0 +1,21 @@
+body{
+    background-image: url("fondo.jpg");
+    background-color: #cccccc;
+}
+.divisions {
+    background-color:  #70ecfa;
+    color: black;
+    margin: 20px;
+    margin-bottom: 30px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+.txt_format{
+    text-align: justify;
+    font-size: 22.5px;
+}
+.titulos{
+    font-family:  cursive;
+    color: #ffffff;
+    text-align: center;
+}
