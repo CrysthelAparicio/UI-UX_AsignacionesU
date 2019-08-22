@@ -1,0 +1,2 @@
+Project Console: https://console.firebase.google.com/project/friendlychat-ddcd0/overview
+Hosting URL: https://friendlychat-ddcd0.firebaseapp.com
